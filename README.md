@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub
+This repository is for practising the GitHub and NetBeans
