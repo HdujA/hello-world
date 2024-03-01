@@ -10,9 +10,15 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 body {
     background-color: lightgrey;
 }
+h1 {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
 b {
     color: blue;
 }
 p {
-    color: lightsalmon;
+    color: darkmagenta;
 }
