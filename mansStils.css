@@ -22,3 +22,6 @@ b {
 p {
     color: darkmagenta;
 }
+table,th,td,tr {
+    border: 1px solid black;
+}
